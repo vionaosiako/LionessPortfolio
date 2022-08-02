@@ -1,0 +1,42 @@
+
+*{
+    font-family: 'Anek Malayalam', sans-serif;
+}.navbar{
+    background-color: #410CBB;
+    font-weight: bolder;
+}
+.banner{
+    height: 90vh;
+    background-color: #CA8589;
+    justify-content: center;
+    align-items: center;
+}
+
+.action{
+    background-color: #874C4F;
+    color: #f3f0f0;
+}
+
+.imageBanner{
+    width: 100%;
+}
+
+#aboutMe{
+    background-color: #C0ACA4;
+    /* height: 100vh; */
+}
+
+.aboutMe{
+    display: flex;
+    flex-wrap: wrap-reverse;
+    align-items: center;
+}
+
+.logo img{
+    height: 25px;
+}
+
+#portfolio{
+    /* height: 100vh; */
+    background-color: #CA8589;
+}
